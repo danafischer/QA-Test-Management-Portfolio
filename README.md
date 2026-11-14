@@ -38,7 +38,8 @@ All examples are created for demonstration purposes and contain no confidential 
 
 - ISTQB Certified Tester – Foundation Level (CTFL)
 - ISTQB Certified Tester Advanced Level – Test Manager (CTAL-TM)
-- TOSCA AS1 & AS2
+- Tricentis Tosca Automation Specialist Level 1 (AS1)
+- Tricentis Tosca Automation Specialist Level 2 (AS2)
 - Generative AI for Quality Engineering
 
 ## About Me
