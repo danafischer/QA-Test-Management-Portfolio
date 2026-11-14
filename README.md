@@ -38,7 +38,7 @@ All examples are created for demonstration purposes and contain no confidential 
 
 - ISTQB Certified Tester – Foundation Level (CTFL)
 - ISTQB Certified Tester Advanced Level – Test Manager (CTAL-TM)
-- Microsoft AZ-305 – Exam Passed
+- TOSCA AS1 & AS2
 - Generative AI for Quality Engineering
 
 ## About Me
